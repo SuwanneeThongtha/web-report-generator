@@ -1,0 +1,113 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\PROJECT 2024\\Z-Research 2024\\report generator\\web_research_react\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6B0EB6BA-9192-473E-A135-A7F277FEDED3}|web_research_react.client\\web_research_react.client.esproj|d:\\project 2024\\z-research 2024\\report generator\\web_research_react\\web_research_react.client\\src\\components\\templatemanager.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{6B0EB6BA-9192-473E-A135-A7F277FEDED3}|web_research_react.client\\web_research_react.client.esproj|solutionrelative:web_research_react.client\\src\\components\\templatemanager.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B0EB6BA-9192-473E-A135-A7F277FEDED3}|web_research_react.client\\web_research_react.client.esproj|d:\\project 2024\\z-research 2024\\report generator\\web_research_react\\web_research_react.client\\src\\app.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{6B0EB6BA-9192-473E-A135-A7F277FEDED3}|web_research_react.client\\web_research_react.client.esproj|solutionrelative:web_research_react.client\\src\\app.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B0EB6BA-9192-473E-A135-A7F277FEDED3}|web_research_react.client\\web_research_react.client.esproj|d:\\project 2024\\z-research 2024\\report generator\\web_research_react\\web_research_react.client\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6B0EB6BA-9192-473E-A135-A7F277FEDED3}|web_research_react.client\\web_research_react.client.esproj|solutionrelative:web_research_react.client\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B0EB6BA-9192-473E-A135-A7F277FEDED3}|web_research_react.client\\web_research_react.client.esproj|d:\\project 2024\\z-research 2024\\report generator\\web_research_react\\web_research_react.client\\package.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6B0EB6BA-9192-473E-A135-A7F277FEDED3}|web_research_react.client\\web_research_react.client.esproj|solutionrelative:web_research_react.client\\package.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B0EB6BA-9192-473E-A135-A7F277FEDED3}|web_research_react.client\\web_research_react.client.esproj|d:\\project 2024\\z-research 2024\\report generator\\web_research_react\\web_research_react.client\\src\\components\\newinspectionreport.jsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{6B0EB6BA-9192-473E-A135-A7F277FEDED3}|web_research_react.client\\web_research_react.client.esproj|solutionrelative:web_research_react.client\\src\\components\\newinspectionreport.jsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "NewInspectionReport.jsx",
+              "DocumentMoniker": "D:\\PROJECT 2024\\Z-Research 2024\\report generator\\web_research_react\\web_research_react.client\\src\\components\\NewInspectionReport.jsx",
+              "RelativeDocumentMoniker": "web_research_react.client\\src\\components\\NewInspectionReport.jsx",
+              "ToolTip": "D:\\PROJECT 2024\\Z-Research 2024\\report generator\\web_research_react\\web_research_react.client\\src\\components\\NewInspectionReport.jsx",
+              "RelativeToolTip": "web_research_react.client\\src\\components\\NewInspectionReport.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2024-12-09T13:22:53.985Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "index.html",
+              "DocumentMoniker": "D:\\PROJECT 2024\\Z-Research 2024\\report generator\\web_research_react\\web_research_react.client\\index.html",
+              "RelativeDocumentMoniker": "web_research_react.client\\index.html",
+              "ToolTip": "D:\\PROJECT 2024\\Z-Research 2024\\report generator\\web_research_react\\web_research_react.client\\index.html",
+              "RelativeToolTip": "web_research_react.client\\index.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-12-09T13:02:03.462Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TemplateManager.jsx",
+              "DocumentMoniker": "D:\\PROJECT 2024\\Z-Research 2024\\report generator\\web_research_react\\web_research_react.client\\src\\components\\TemplateManager.jsx",
+              "RelativeDocumentMoniker": "web_research_react.client\\src\\components\\TemplateManager.jsx",
+              "ToolTip": "D:\\PROJECT 2024\\Z-Research 2024\\report generator\\web_research_react\\web_research_react.client\\src\\components\\TemplateManager.jsx",
+              "RelativeToolTip": "web_research_react.client\\src\\components\\TemplateManager.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2024-12-09T12:44:00.128Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "package.json",
+              "DocumentMoniker": "D:\\PROJECT 2024\\Z-Research 2024\\report generator\\web_research_react\\web_research_react.client\\package.json",
+              "RelativeDocumentMoniker": "web_research_react.client\\package.json",
+              "ToolTip": "D:\\PROJECT 2024\\Z-Research 2024\\report generator\\web_research_react\\web_research_react.client\\package.json",
+              "RelativeToolTip": "web_research_react.client\\package.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-09T12:34:29.164Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "App.jsx",
+              "DocumentMoniker": "D:\\PROJECT 2024\\Z-Research 2024\\report generator\\web_research_react\\web_research_react.client\\src\\App.jsx",
+              "RelativeDocumentMoniker": "web_research_react.client\\src\\App.jsx",
+              "ToolTip": "D:\\PROJECT 2024\\Z-Research 2024\\report generator\\web_research_react\\web_research_react.client\\src\\App.jsx",
+              "RelativeToolTip": "web_research_react.client\\src\\App.jsx",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAADYAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2024-12-09T12:29:40.067Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

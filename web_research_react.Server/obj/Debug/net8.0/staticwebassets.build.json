@@ -1,0 +1,24 @@
+{
+  "Version": 1,
+  "Hash": "Ix9bHdIrPJXzUTM7nn22D0wC00TQKWqrEgaYhVzsEzY=",
+  "Source": "web_research_react.Server",
+  "BasePath": "_content/web_research_react.Server",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "D:\\PROJECT 2024\\Z-Research 2024\\report generator\\web_research_react\\web_research_react.client\\web_research_react.client.esproj",
+      "Version": 2,
+      "Source": "web_research_react.client",
+      "GetPublishAssetsTargets": "GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework"
+    }
+  ],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

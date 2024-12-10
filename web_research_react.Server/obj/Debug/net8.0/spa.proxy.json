@@ -1,0 +1,10 @@
+{
+"SpaProxyServer": {
+"ServerUrl": "https://localhost:57297",
+"RedirectUrl": "",
+"LaunchCommand": "npm run dev",
+"WorkingDirectory": "D:\\PROJECT 2024\\Z-Research 2024\\report generator\\web_research_react\\web_research_react.Server\\..\\web_research_react.client",
+"MaxTimeoutInSeconds": "120",
+"KeepRunning": "false"
+}
+}

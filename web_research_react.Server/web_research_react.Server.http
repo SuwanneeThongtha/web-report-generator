@@ -1,0 +1,6 @@
+@web_research_react.Server_HostAddress = http://localhost:5287
+
+GET {{web_research_react.Server_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
